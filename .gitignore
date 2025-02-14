@@ -1,0 +1,29 @@
+# Python virtual environment
+venv
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Streamlit specific
+.streamlit/secrets.toml
+
+# PDF files (optional, uncomment if you don't want to track test PDFs)
+# *.pdf 
